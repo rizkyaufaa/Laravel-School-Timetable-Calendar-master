@@ -68,8 +68,8 @@ return [
         ],
     ],
     'lesson'         => [
-        'title'          => 'Lessons',
-        'title_singular' => 'Lesson',
+        'title'          => 'Course',
+        'title_singular' => 'Course',
         'fields'         => [
             'id'                => 'ID',
             'id_helper'         => '',
@@ -92,8 +92,8 @@ return [
         ],
     ],
     'schoolClass'    => [
-        'title'          => 'School Classes',
-        'title_singular' => 'School Class',
+        'title'          => 'Class',
+        'title_singular' => 'Class',
         'fields'         => [
             'id'                => 'ID',
             'id_helper'         => '',
