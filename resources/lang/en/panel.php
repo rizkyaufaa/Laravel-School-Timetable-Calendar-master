@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'Lecturer Teaching Schedule',
+    'site_title' => 'Lecturer Teaching',
 ];
